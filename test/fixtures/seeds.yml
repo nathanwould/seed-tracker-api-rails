@@ -1,0 +1,45 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  name: MyText
+  species: MyText
+  plantType: MyText
+  companyName: MyText
+  link: MyText
+  packedForSeason: MyText
+  daysToEmerge: MyText
+  plantingDepth: MyText
+  seedSpacing: MyText
+  rowSpacing: MyText
+  daysToMaturity: MyText
+  weeksAfterLastFrostToStartIndoors: MyText
+  weeksBeforeFirstFrostToStartIndoors: MyText
+  weeksAfterLastFrostToSowOutdoors: MyText
+  weeksBeforeFirstFrostToSowOutdoors: MyText
+  startIndoors: false
+  directSow: false
+  isHeirloom: false
+  isOpenPollenated: false
+
+two:
+  user: two
+  name: MyText
+  species: MyText
+  plantType: MyText
+  companyName: MyText
+  link: MyText
+  packedForSeason: MyText
+  daysToEmerge: MyText
+  plantingDepth: MyText
+  seedSpacing: MyText
+  rowSpacing: MyText
+  daysToMaturity: MyText
+  weeksAfterLastFrostToStartIndoors: MyText
+  weeksBeforeFirstFrostToStartIndoors: MyText
+  weeksAfterLastFrostToSowOutdoors: MyText
+  weeksBeforeFirstFrostToSowOutdoors: MyText
+  startIndoors: false
+  directSow: false
+  isHeirloom: false
+  isOpenPollenated: false
